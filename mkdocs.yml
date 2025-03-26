@@ -1,1 +1,6 @@
 site_name: UCL Particle Physics Masterclass
+repo_url: https://github.com/UCL-HEP/masterclass
+
+theme:
+  name: 'material'
+  language: 'en'
