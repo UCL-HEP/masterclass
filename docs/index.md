@@ -6,3 +6,4 @@
 - [Download Hypatia application](https://physicsmasterclasses.org/downloads/Hypatia_7.4_Masterclass.zip)
 - [Masterclass tutorial videos](https://www.youtube.com/@uclparticlephysicsmasterclass)
 - [Data files](data/)
+- [Submit results](https://zpathweb.hepp.uiocloud.no/OPloT/index.php)
