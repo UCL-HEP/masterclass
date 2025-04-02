@@ -18,13 +18,13 @@ The bare essentials before handing over to the speaker for the ATLAS talk.
     - find and bookmark masterclass web page
     - download Hypatia, unpack, and launch
 
-# Lecture and Q&A session (30 mins)
+# Lecture and Q&A session (40 mins)
 
 Arrange signals to let speaker know when running out of time.
 
 OK to overrun a bit if students are engaged and asking good questions.
 
-# Hands-on exercises (pre-lunch) (90 minutes)
+# Hands-on exercises (pre-lunch) (2 hours)
 
 ## Introduce exercise
 
@@ -59,17 +59,20 @@ OK to overrun a bit if students are engaged and asking good questions.
 
 Tell students we will need at least two volunteers for the video conference:
 
-- one to answer a question from the moderators about today's activities;
-- one or more to ask questions to the moderators, which can be anout
-    - today's exercise
-    - particle physics
-    - life as a physicist...
+- one to answer a question from the moderators about what they have learned today, or how much they already knew about particle physics;
+- one to answer a question about today's exercise and what the results show.
+
+There will also be an opportunity for students to ask questions to the moderators, so they should be thinking about anything they might like to ask about e.g.
+
+- today's exercise
+- particle physics
+- life as a physicist...
 
 Remind participants to save work, and ensure they know when to come back.
 
 # Lunch break (60 minutes)
 
-# Hands-on exercises (post-lunch) (45 minutes)
+# Hands-on exercises (post-lunch) (1 hour)
 
 - Load saved Hypatia project.
 - Outline remainder of masterclass
@@ -81,7 +84,7 @@ Remind participants to save work, and ensure they know when to come back.
 - Ask for volunteers to ask/answer questions in video conference.
 - Continue with work.
 
-# Discussion of results (15 minutes)
+# Discussion of results (20 minutes)
 
 - Demonstrate uploading results to OPlot web site.
 - Look at combined histograms and discuss peaks etc.
