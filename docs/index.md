@@ -2,6 +2,7 @@
 
 
 - [Masterclass slides (pptx)](ucl-slides-2025.pptx)
+- [Particle physics lecture slides](particle_physics_talk_2025.pdf)
 - [ATLAS Z Path Instructions](https://atlas.physicsmasterclasses.org/en/zpath.htm)
 - [Particle identification "cheat sheet"](cheat-sheet_en.pdf)
 - [Download Hypatia application](https://physicsmasterclasses.org/downloads/Hypatia_7.4_Masterclass.zip)
