@@ -2,7 +2,7 @@
 
 
 - [Masterclass slides (pptx)](ucl-slides-2026.pptx)
-- ATLAS lecture slides (coming soon)
+- [ATLAS lecture slides](ATLAS-overview-masterclass2026.pdf)
 - [Dark Matter lecture slides](https://docs.google.com/presentation/d/1errOp52OWIS55s0ODO22_9CbZqBrA3yz3JhQ0poNL2Q/edit?usp=sharing)
 - [ATLAS Z Path Instructions](https://atlas.physicsmasterclasses.org/en/zpath.htm)
 - [Particle identification "cheat sheet"](cheat-sheet_en.pdf)
